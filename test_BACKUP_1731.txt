@@ -1,0 +1,7 @@
+i am bugfix branch
+whatsup boys !! locally 
+<<<<<<< HEAD
+new line locally
+=======
+add new line remotely
+>>>>>>> 3ddd29758d034e0668c354bcd26bcf1aeccb1d15
